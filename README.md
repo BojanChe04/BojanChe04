@@ -25,6 +25,7 @@
 ![.NET](https://img.shields.io/badge/.NET-purple?logo=dotnet)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
 
 ---
 
