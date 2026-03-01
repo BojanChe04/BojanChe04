@@ -1,7 +1,7 @@
 ## Hi there 👋, I`m Bojana
 
-🎓 Bachelor of Science in Software Engineering and Information Technologies
-🚀 Always learning new technologies and building projects
+🎓 Bachelor of Science in Software Engineering and Information Technologies<br>
+🚀 Always learning new technologies and building projects<br>
 📫 How to reach me: bojanakostoska@gmail.com
 
 ---
@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/bojana.kostoska/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/bojana-kostoska-619a77272/)
 
---
+---
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
